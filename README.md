@@ -32,12 +32,11 @@
     <a href="https://github.com/sohailshaik8328/readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/palacharlanarendra/download-me/issues">Issues</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+    <a href="https://github.com/palacharlanarendra/download-me/pulls">Pull Requests</a>
+    .
+    </p>
 </p>
 
 
@@ -141,17 +140,25 @@ This is for how to list things you need to use the software and how to install t
    ```sh
    npm install
    ```
+   ```sh
+   npm install ytdl-core@latest
+   ```
+   ```sh
+   yarn add ytdl-core@latest
+   ```
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-In many situations we are not able to dounload the videos from youtube. So, here we are.
+In many situations we are not able to download the videos from youtube. So, here we are.
 
- - First open our website.
- - Copy the url of the video which you like from  youtube.  
- - Paste the link in the input you will see in the home page of our website.
- - And click download button to download the video.
+ - Open the terminal and navigate to the project folder where the code.js file is visible.
+ - Execute `node code.js` command.
+ - Run the localhost:5000 in the browser.
+ - Select the video which you want to download.
+ - Paste the youtube url link in the searchbar which is visible in the home page of our website.
+ - Select the video format, quality. And click the download button to download the video.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -187,44 +194,37 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Narendera Palacharla - 
-- [@Narendra Palacharla Twitter](https://twitter.com/narendrapalach1)
-- [@Narendra Palacharla Github](https://github.com/palacharlanarendra)
-- [@Narendra Palacharla Email](narendrapalacharla@gmail.com)
-
 Joel Rajesh - 
-- [@Joel Rajesh Twitter](https://twitter.com/JoelRajesh13)
-- [@Joel Rajesh Github](https://github.com/joelshejar)
-- [@Joel Rajesh Email](joel.rajesh13@gmail.com)
+
+- [Twitter](https://twitter.com/JoelRajesh13)
+- [Github](https://github.com/joelshejar)
+- [Email](joel.rajesh13@gmail.com)
+
+Narendera Palacharla - 
+
+- [Twitter](https://twitter.com/narendrapalach1)
+- [Github](https://github.com/palacharlanarendra)
+- [Email](narendrapalacharla@gmail.com)
+
 
 Narasimhulu Vasam - 
-- [@Narasimhulu Vasam Twitter](https://twitter.com/NarasimhuluV7)
-- [@Narasimhulu Vasam Github](https://github.com/Narasimhuluv)
-- [@Narasimhulu Vasam Email](vasamnarasimhulu123@gmail.com)
+
+- [Twitter](https://twitter.com/NarasimhuluV7)
+- [Github](https://github.com/Narasimhuluv)
+- [Email](vasamnarasimhulu123@gmail.com)
 
 
 Sohail Shaik - 
-- [@Sohail Shaik Twitter](https://twitter.com/SohailS24733102)
-- [@Sohail Shaik Github](https://github.com/sohailshaik8328)
-- [@Sohail Shaik Email](sohailshaik765@gmail.com)
+- [Twitter](https://twitter.com/SohailS24733102)
+- [Github](https://github.com/sohailshaik8328)
+- Email[](sohailshaik765@gmail.com)
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
+## Credit where credit's due
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+- Thank you othniel drew for the reference of the Read Me file. 
 
 
 
