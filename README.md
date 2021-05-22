@@ -198,26 +198,22 @@ Joel Rajesh -
 
 - [Twitter](https://twitter.com/JoelRajesh13)
 - [Github](https://github.com/joelshejar)
-- [Email](joel.rajesh13@gmail.com)
 
 Narendera Palacharla - 
 
 - [Twitter](https://twitter.com/narendrapalach1)
 - [Github](https://github.com/palacharlanarendra)
-- [Email](narendrapalacharla@gmail.com)
 
 
 Narasimhulu Vasam - 
 
 - [Twitter](https://twitter.com/NarasimhuluV7)
 - [Github](https://github.com/Narasimhuluv)
-- [Email](vasamnarasimhulu123@gmail.com)
 
 
 Sohail Shaik - 
 - [Twitter](https://twitter.com/SohailS24733102)
 - [Github](https://github.com/sohailshaik8328)
-- Email[](sohailshaik765@gmail.com)
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
