@@ -36,6 +36,8 @@
     ·
     <a href="https://github.com/palacharlanarendra/download-me/pulls">Pull Requests</a>
     .
+      <a href="https://github.com/palacharlanarendra/download-me/commits">Commits</a>
+    .
     </p>
 </p>
 
