@@ -1,5 +1,5 @@
 
-		const host = "http://localhost:5000/";
+		const host = "http://localhost:3000/";
         
         var userImageLink = 
 "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200714180638/CIP_Launch-banner.png";
